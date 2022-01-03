@@ -1,0 +1,73 @@
+h1{
+    color: green;
+    text-align: center;
+    font-size: 26px;
+    font-weight: 700;
+}
+
+.blog p{
+    height: 150px;
+    width: 60%;
+    border: 20px solid indigo;
+    border-radius: 20px;
+    padding: 20px 20px 0px 20px;
+    color: lightsalmon;
+    margin:4px;
+    text-align: justify;
+    background-color: slateblue;
+}
+.blog span{
+    color: yellow;
+    background-color: slategrey;
+}
+h3{
+    text-align: left;
+    color: red;
+    background-color: seashell;
+
+}
+.imge p{
+    text-align:center;
+}
+.pic{
+    width: 50%;
+    display: block;
+    margin: 0 auto;
+}
+.blog li{
+    border: 10px solid green;
+    margin: 10px;
+    padding: 12px;
+    height: 20%;
+    width: 8%;
+    text-align: left;
+    color: black;
+    background-color: slateblue;
+} 
+.detail ol{
+    text-align: left;
+    color: blue;
+    font-size: 20px;
+    font-style: italic;
+    font-weight: 800;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+.detail h4{
+    color: blue;
+}
+.detail ul{
+    color: rgb(240, 9, 105);
+    background-color: rgb(2, 223, 204);
+    height: 80px;
+    width: 5%;
+}
+.detail input{
+    color: coral;
+
+
+}
+.detail button{
+    color: cornflowerblue;
+}
+    
